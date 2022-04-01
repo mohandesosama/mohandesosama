@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Osama Hosameldeen
-- 👀 I’m interested in cybersecurity, machine learning, data analysis
-- 🌱 I’m currently learning cybersecurity
+- 👀 I’m interested in cybersecurity, machine learning.
+- 🌱 I’m currently deploying machine learning models online.
 - 💞️ I’m looking to collaborate on data analysis and engineering
 - 📫 How to reach me mohandesosama@yahoo.com
 
